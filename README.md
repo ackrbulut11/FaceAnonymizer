@@ -35,5 +35,5 @@ This is a simple Python project for real time face detection and blurring using 
 
 ---
 
-![Example Output](example_output.png)
+
 
